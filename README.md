@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- COSMIC HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:022c22,100:00FF66&height=220&section=header&text=P%20DINESH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Navigating%20the%20Digital%20Cosmos%20via%20Java%20Backends%20%26%20Intelligent%20APIs&descFontSize=16&descAlignY=58&descColor=6ee7b7" width="100%" />
+# 🌌 P DINESH KUMAR
+### ⚡ Java Full Stack & AI Backend Developer ⚡
 
-<!-- ANIMATED TYPING TERMINAL -->
+<!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://dinesh-22-kumar.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=System.out.println(%22Building+Scalable+Spring+Boot+Cores%22);;Relational+Architecture+%26+Sub-Second+SQL+Tuning;;Orchestrating+Intelligent+AI+Pipelines;;Welcome+to+the+Omniverse+of+Code.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=System.out.println(%22Building+Scalable+Spring+Boot+APIs%22);;Relational+Architecture+%26+Sub-Second+SQL+Tuning;;Orchestrating+Intelligent+AI+Pipelines;;Architecting+Reliable+Backend+Systems.;" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ACTION BADGES -->
 <p align="center">
-  <a href="https://dinesh-22-kumar.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/ORBITAL_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF66&borderColor=00FF66" alt="Live Portfolio" />
+  <a href="https://dinesh-22-kumar.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/ORBITAL_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF66" alt="Live Portfolio" />
   </a>
   <a href="mailto:pdineshkumar295@gmail.com">
     <img src="https://img.shields.io/badge/INITIATE_CONTACT-052e16?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Transmission" />
@@ -59,20 +59,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh-22-kumar&show_icons=true&theme=dark&bg_color=050814&title_color=00FF66&icon_color=10B981&text_color=e2e8f0&border_color=064e3b&hide_border=false" alt="Dinesh's Telemetry" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-22-kumar&layout=compact&theme=dark&bg_color=050814&title_color=00FF66&text_color=e2e8f0&border_color=064e3b&hide_border=false" alt="Tech Frequency" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-22-kumar&theme=dark&background=050814&border=064e3b&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=34d399" alt="GitHub Streak Tracker" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-22-kumar&theme=dark&background=050814&border=064e3b&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=34d399" alt="GitHub Streak Tracker" />
+<!-- GITHUB ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-22-kumar&bg_color=050814&color=00FF66&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
 
 ---
 
-<!-- COSMIC FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:022c22,100:050814&height=120&section=footer" width="100%" />
-
-<p align="center">
+<div align="center">
   <b>Designed for the High-Performance Frontier • P Dinesh Kumar © 2026</b>
-</p>
-
 </div>
