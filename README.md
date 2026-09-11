@@ -1,77 +1,78 @@
 <div align="center">
 
-# ⚡ P DINESH KUMAR
-### **Java Full Stack & AI Backend Developer**
+<!-- COSMIC HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:022c22,100:00FF66&height=220&section=header&text=P%20DINESH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Navigating%20the%20Digital%20Cosmos%20via%20Java%20Backends%20%26%20Intelligent%20APIs&descFontSize=16&descAlignY=58&descColor=6ee7b7" width="100%" />
 
+<!-- ANIMATED TYPING TERMINAL -->
+<a href="https://dinesh-22-kumar.github.io/Portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=System.out.println(%22Building+Scalable+Spring+Boot+Cores%22);;Relational+Architecture+%26+Sub-Second+SQL+Tuning;;Orchestrating+Intelligent+AI+Pipelines;;Welcome+to+the+Omniverse+of+Code.;" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ACTION BADGES -->
 <p align="center">
   <a href="https://dinesh-22-kumar.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00D95A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/ORBITAL_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF66&borderColor=00FF66" alt="Live Portfolio" />
   </a>
   <a href="mailto:pdineshkumar295@gmail.com">
-    <img src="https://img.shields.io/badge/HIRE_ME-0F172A?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Direct Email" />
+    <img src="https://img.shields.io/badge/INITIATE_CONTACT-052e16?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Transmission" />
+  </a>
+  <a href="https://github.com/dinesh-22-kumar?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOS-050814?style=for-the-badge&logo=github&logoColor=34d399" alt="Repositories" />
   </a>
 </p>
 
----
-
 </div>
 
-### 🛠️ Technical Arsenal
+---
+
+### 🌌 COSMIC TECH MATRIX
 
 <div align="center">
 
-| Domain | Stack & Tooling |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,git,github,postman,vscode,linux&theme=dark" />
+</p>
+
+| Orbit | Mission Parameters & Stack |
 | :--- | :--- |
-| **Backend & Architecture** | `Java 17` `Spring Boot` `REST APIs` `Microservices` `JWT Security` |
-| **Databases & Tuning** | `MySQL` `PostgreSQL` `Schema Normalization` `Query Optimization` `JPA/Hibernate` |
-| **AI & Automation** | `Python` `LLM API Integration` `Prompt Engineering` `Multimodal Pipelines` |
-| **DevOps & Workflow** | `Git` `GitHub Actions` `Postman` `VS Code` `Linux Basics` |
+| 🛸 **Backend Propulsion** | `Java 17` `Spring Boot` `REST APIs` `Microservices` `JWT Security` |
+| 🪐 **Data Core Systems** | `MySQL` `PostgreSQL` `Query Optimization` `Schema Architecture` `Hibernate/JPA` |
+| 🛰️ **Intelligence Matrix** | `Python` `LLM Pipeline Integration` `Multimodal Parsing` `Automated Diagnostics` |
+| 🚀 **Deploy & Diagnostics** | `Git` `GitHub Pages` `Postman API Testing` `System Error Safeguards` |
 
 </div>
 
 ---
 
-### 🚀 Core Engineering Projects
+### 🌠 FEATURED EXPEDITIONS (Proof of Work)
 
-* **[NEXORA-NUTRI-SCAN-AI](https://github.com/dinesh-22-kumar/NEXORA-NUTRI-SCAN-AI)** — Intelligent multimodal asset analysis pipeline for structured nutrition breakdown and automated health indicators.
-* **[NEXORA-CODE-TONE-AI](https://github.com/dinesh-22-kumar/NEXORA-CODE-TONE-AI)** — Static analysis utility scanning developer codebases for syntactic clarity and stylistic metrics.
-* **[St.Charles-College-Chatbot](https://github.com/dinesh-22-kumar/St.Charles-College-Chatbot)** — Institutional conversational agent resolving workflows and automated academic query routing.
-* **[Spring Boot REST Engine](https://dinesh-22-kumar.github.io/Portfolio/)** — Modular enterprise backend architecture featuring sub-second relational SQL query tuning.
+* 🔮 **[NEXORA-NUTRI-SCAN-AI](https://github.com/dinesh-22-kumar/NEXORA-NUTRI-SCAN-AI)** — Intelligent multimodal sensory analysis pipeline parsing dietary data into structured diagnostic metrics.
+* ⚡ **[NEXORA-CODE-TONE-AI](https://github.com/dinesh-22-kumar/NEXORA-CODE-TONE-AI)** — Static analysis probe scanning software repos for structural elegance, clean architecture, and code clarity.
+* 💬 **[St.Charles-College-Chatbot](https://github.com/dinesh-22-kumar/St.Charles-College-Chatbot)** — Institutional conversational agent resolving workflows and automated academic query routing.
+* ⚙️ **[Spring Boot REST Engine](https://dinesh-22-kumar.github.io/Portfolio/)** — High-concurrency backend core featuring sub-second relational query indexing and modular security.
 
 ---
 
-### 📊 System Telemetry
+### 📡 TELEMETRY & FLIGHT METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh-22-kumar&show_icons=true&theme=omni&bg_color=FCFDFD&title_color=059669&icon_color=00D95A&text_color=0F172A&border_color=DCFCE7&hide_border=false" alt="Dinesh's GitHub Stats" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-22-kumar&layout=compact&theme=omni&bg_color=FCFDFD&title_color=059669&text_color=0F172A&border_color=DCFCE7&hide_border=false" alt="Top Languages" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dinesh-22-kumar&show_icons=true&theme=dark&bg_color=050814&title_color=00FF66&icon_color=10B981&text_color=e2e8f0&border_color=064e3b&hide_border=false" alt="Dinesh's Telemetry" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-22-kumar&layout=compact&theme=dark&bg_color=050814&title_color=00FF66&text_color=e2e8f0&border_color=064e3b&hide_border=false" alt="Tech Frequency" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-22-kumar&theme=omni&background=FCFDFD&border=DCFCE7&stroke=00D95A&ring=059669&fire=00FF66&currStreakLabel=059669" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-22-kumar&theme=dark&background=050814&border=064e3b&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=34d399" alt="GitHub Streak Tracker" />
 
 ---
 
-### 🌐 Connect With Me
+<!-- COSMIC FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:022c22,100:050814&height=120&section=footer" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinesh-22-kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Site-00D95A?style=for-the-badge&logo=vercel&logoColor=white)](https://dinesh-22-kumar.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdineshkumar295@gmail.com)
+<p align="center">
+  <b>Designed for the High-Performance Frontier • P Dinesh Kumar © 2026</b>
+</p>
 
 </div>
-
-<!--
-**dinesh-22-kumar/dinesh-22-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
